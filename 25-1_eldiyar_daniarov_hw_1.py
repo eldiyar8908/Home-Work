@@ -42,3 +42,4 @@ for i in create_students():
     print(i.introduce_myself())
     print(i.marks)
     print(i.arif())
+    sdf = 2
